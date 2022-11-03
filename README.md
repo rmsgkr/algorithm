@@ -1,2 +1,2 @@
 # algorithm
-Algorithm Study
+Algorithm Study(JAVA)
